@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72beba82-7d68-4af4-905b-bbbbad5794c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZsttsPZx4MpT76huRfHNsjegqU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\pythondata\webauto_quickstart" />
+      <recent name="F:\pythondata" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.firefox_auto_demo">
+    <configuration name="自动化" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythondemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webauto_quickstart" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\pythondata\webauto_quickstart\自动化.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="自动化" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythondemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\pythondata\webauto_quickstart\自动化.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythondemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="firefox_auto_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythondemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webauto_quickstart" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webauto_quickstart/firefox_auto_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythondemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.homework" />
+      <item itemvalue="Python.自动化" />
+      <item itemvalue="Python.firefox_auto_demo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.firefox_auto_demo" />
+        <item itemvalue="Python.自动化" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.homework" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72beba82-7d68-4af4-905b-bbbbad5794c7" name="Default Changelist" comment="" />
+      <created>1585639847621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585639847621</updated>
+      <workItem from="1585639852908" duration="6813000" />
+      <workItem from="1585702308179" duration="10184000" />
+      <workItem from="1585808588103" duration="7201000" />
+      <workItem from="1585964260617" duration="4695000" />
+      <workItem from="1586068482721" duration="1777000" />
+      <workItem from="1586133982006" duration="13707000" />
+      <workItem from="1586220553978" duration="5676000" />
+      <workItem from="1586231900800" duration="1990000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="49" key="#Inspections" timestamp="1585645227137">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="550" y="49" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1585645227137" />
+    <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586000090924">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1586000090924" />
+    <state x="754" y="137" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585646373714">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="754" y="137" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1585646373714" />
+    <state width="639" height="102" key="GridCell.Tab.0.bottom" timestamp="1586240418236">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="102" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586240418236" />
+    <state width="637" height="238" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585834780750" />
+    <state width="639" height="102" key="GridCell.Tab.0.center" timestamp="1586240418236">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="102" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586240418236" />
+    <state width="637" height="238" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585834780750" />
+    <state width="639" height="102" key="GridCell.Tab.0.left" timestamp="1586240418236">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="102" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586240418236" />
+    <state width="637" height="238" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585834780750" />
+    <state width="639" height="102" key="GridCell.Tab.0.right" timestamp="1586240418236">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="102" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586240418236" />
+    <state width="637" height="238" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585834780750" />
+    <state width="639" height="102" key="GridCell.Tab.1.bottom" timestamp="1586240418237">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="102" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586240418237" />
+    <state width="637" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585834780751" />
+    <state width="639" height="102" key="GridCell.Tab.1.center" timestamp="1586240418236">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="102" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1586240418236" />
+    <state width="637" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1585834780750" />
+    <state width="639" height="102" key="GridCell.Tab.1.left" timestamp="1586240418236">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="102" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1586240418236" />
+    <state width="637" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1585834780750" />
+    <state width="639" height="102" key="GridCell.Tab.1.right" timestamp="1586240418236">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="102" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1586240418236" />
+    <state width="637" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1585834780750" />
+    <state x="375" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1585702313654">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="375" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1585702313654" />
+    <state x="687" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1586138122167">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="687" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1586138122167" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/webauto_quickstart/firefox_auto_demo.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythondemo$firefox_auto_demo.coverage" NAME="firefox_auto_demo Coverage Results" MODIFIED="1586240313082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webauto_quickstart" />
+    <SUITE FILE_PATH="coverage/pythondemo$homework.coverage" NAME="homework Coverage Results" MODIFIED="1585646382149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythondemo$.coverage" NAME="自动化 Coverage Results" MODIFIED="1586143669504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webauto_quickstart" />
+    <SUITE FILE_PATH="coverage/pythondemo$demo.coverage" NAME="demo Coverage Results" MODIFIED="1585655224628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythondemo$__1_.coverage" NAME="自动化 (1) Coverage Results" MODIFIED="1585964375756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webauto_quickstart" />
+  </component>
+</project>
